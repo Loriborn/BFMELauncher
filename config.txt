@@ -1,0 +1,19 @@
+// Do not manually edit this file, it will break stuff!
+
+Music_Enabled: 0
+Hide_Patches: 1
+Hide_Browser: 0
+BFME_Fullscreen: 1
+BFME_Windowed_Resolution: 1280 720
+BFME_Directory: C:/Program Files (x86)/EA GAMES/The Battle for Middle-earth (tm)/
+BFME2_Directory: C:/Program Files (x86)/Electronic Arts/The Battle for Middle-earth (tm) II/
+ROTWK_Directory: C:/Program Files (x86)/Electronic Arts/The Lord of the Rings, The Rise of the Witch-king/
+T3A_Directory: C:/Program Files (x86)/Revora/T3AOnline/
+BFME_URL: https://nx22048.your-storageshare.de/s/EBTYgEtTLfMy34w/download/tBfMe.7z
+BFME2_URL: https://nx22048.your-storageshare.de/s/PNNgQHeNHo54S7p/download/tBfMe_II.7z
+ROTWK_URL: https://nx22048.your-storageshare.de/s/FFcSWXiCWjCsfk3/download/tRotWk_ep.7z
+T3A_URL: https://nx22048.your-storageshare.de/s/5G9wHR4JDpT8Qq3/download/T3AOnline_2.1.3.msi
+GameRanger_URL: http://www.gameranger.com/download/GameRangerSetup.exe
+BFMEPatches_URL: 
+BFME2Patches_URL: 
+ROTWKPatches_URL: 
