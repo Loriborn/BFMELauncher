@@ -8,4 +8,4 @@ You must own a valid CD-key for BFME in order to use this tool.
 
 Current project will not build, there has been development to support other games and patches but those are WIP with no ETA.
 
-Yes this is UE4 for a launcher, a bit overkill. The expected project direction was not originally this simple but it made no sense to drop it all and restart in Unity or Java.
+Yes this is UE4 for a launcher, a bit overkill. The expected project direction was not originally this simple but it made no sense to drop it all and restart in Unity or Java. I'm a XR developer, not an applet creator, sue me.
